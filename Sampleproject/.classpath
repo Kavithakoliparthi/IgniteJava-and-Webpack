@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" output="target/classes" path="src/main/java">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" output="target/test-classes" path="src/test/java">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.m2e.MAVEN2_CLASSPATH_CONTAINER">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="F:/kavitha/ProgramFiles/Java/jdk1.8.0_131/lib/ant-javafx.jar"/>
+	<classpathentry kind="lib" path="F:/kavitha/ProgramFiles/Java/jdk1.8.0_131/lib/dt.jar"/>
+	<classpathentry kind="lib" path="F:/kavitha/ProgramFiles/Java/jdk1.8.0_131/lib/javafx-mx.jar"/>
+	<classpathentry kind="lib" path="F:/kavitha/ProgramFiles/Java/jdk1.8.0_131/lib/jconsole.jar"/>
+	<classpathentry kind="lib" path="F:/kavitha/ProgramFiles/Java/jdk1.8.0_131/lib/packager.jar"/>
+	<classpathentry kind="lib" path="F:/kavitha/ProgramFiles/Java/jdk1.8.0_131/lib/sa-jdi.jar"/>
+	<classpathentry kind="lib" path="F:/kavitha/ProgramFiles/Java/jdk1.8.0_131/lib/tools.jar"/>
+	<classpathentry kind="lib" path="F:/kavitha/Downloads/apache-maven-3.5.2-bin/apache-maven-3.5.2/lib/aopalliance-1.0.jar"/>
+	<classpathentry kind="lib" path="F:/kavitha/Downloads/apache-maven-3.5.2-bin/apache-maven-3.5.2/lib/cdi-api-1.0.jar"/>
+	<classpathentry kind="lib" path="F:/kavitha/Downloads/apache-maven-3.5.2-bin/apache-maven-3.5.2/lib/commons-cli-1.4.jar"/>
+	<classpathentry kind="lib" path="F:/kavitha/Downloads/apache-maven-3.5.2-bin/apache-maven-3.5.2/lib/commons-io-2.5.jar"/>
+	<classpathentry kind="lib" path="F:/kavitha/Downloads/apache-maven-3.5.2-bin/apache-maven-3.5.2/lib/commons-lang3-3.5.jar"/>
+	<classpathentry kind="lib" path="F:/kavitha/Downloads/apache-maven-3.5.2-bin/apache-maven-3.5.2/lib/guava-20.0.jar"/>
+	<classpathentry kind="lib" path="F:/kavitha/Downloads/apache-maven-3.5.2-bin/apache-maven-3.5.2/lib/guice-4.0-no_aop.jar"/>
+	<classpathentry kind="lib" path="F:/kavitha/Downloads/apache-maven-3.5.2-bin/apache-maven-3.5.2/lib/jansi-1.16.jar"/>
+	<classpathentry kind="lib" path="F:/kavitha/Downloads/apache-maven-3.5.2-bin/apache-maven-3.5.2/lib/javax.inject-1.jar"/>
+	<classpathentry kind="lib" path="F:/kavitha/Downloads/apache-maven-3.5.2-bin/apache-maven-3.5.2/lib/jcl-over-slf4j-1.7.25.jar"/>
+	<classpathentry kind="lib" path="F:/kavitha/Downloads/apache-maven-3.5.2-bin/apache-maven-3.5.2/lib/jsr250-api-1.0.jar"/>
+	<classpathentry kind="lib" path="F:/kavitha/Downloads/apache-maven-3.5.2-bin/apache-maven-3.5.2/lib/maven-artifact-3.5.2.jar"/>
+	<classpathentry kind="lib" path="F:/kavitha/Downloads/apache-maven-3.5.2-bin/apache-maven-3.5.2/lib/maven-builder-support-3.5.2.jar"/>
+	<classpathentry kind="lib" path="F:/kavitha/Downloads/apache-maven-3.5.2-bin/apache-maven-3.5.2/lib/maven-compat-3.5.2.jar"/>
+	<classpathentry kind="lib" path="F:/kavitha/Downloads/apache-maven-3.5.2-bin/apache-maven-3.5.2/lib/maven-core-3.5.2.jar"/>
+	<classpathentry kind="lib" path="F:/kavitha/Downloads/apache-maven-3.5.2-bin/apache-maven-3.5.2/lib/maven-embedder-3.5.2.jar"/>
+	<classpathentry kind="lib" path="F:/kavitha/Downloads/apache-maven-3.5.2-bin/apache-maven-3.5.2/lib/maven-model-3.5.2.jar"/>
+	<classpathentry kind="lib" path="F:/kavitha/Downloads/apache-maven-3.5.2-bin/apache-maven-3.5.2/lib/maven-model-builder-3.5.2.jar"/>
+	<classpathentry kind="lib" path="F:/kavitha/Downloads/apache-maven-3.5.2-bin/apache-maven-3.5.2/lib/maven-plugin-api-3.5.2.jar"/>
+	<classpathentry kind="lib" path="F:/kavitha/Downloads/apache-maven-3.5.2-bin/apache-maven-3.5.2/lib/maven-repository-metadata-3.5.2.jar"/>
+	<classpathentry kind="lib" path="F:/kavitha/Downloads/apache-maven-3.5.2-bin/apache-maven-3.5.2/lib/maven-resolver-api-1.1.0.jar"/>
+	<classpathentry kind="lib" path="F:/kavitha/Downloads/apache-maven-3.5.2-bin/apache-maven-3.5.2/lib/maven-resolver-connector-basic-1.1.0.jar"/>
+	<classpathentry kind="lib" path="F:/kavitha/Downloads/apache-maven-3.5.2-bin/apache-maven-3.5.2/lib/maven-resolver-impl-1.1.0.jar"/>
+	<classpathentry kind="lib" path="F:/kavitha/Downloads/apache-maven-3.5.2-bin/apache-maven-3.5.2/lib/maven-resolver-provider-3.5.2.jar"/>
+	<classpathentry kind="lib" path="F:/kavitha/Downloads/apache-maven-3.5.2-bin/apache-maven-3.5.2/lib/maven-resolver-spi-1.1.0.jar"/>
+	<classpathentry kind="lib" path="F:/kavitha/Downloads/apache-maven-3.5.2-bin/apache-maven-3.5.2/lib/maven-resolver-transport-wagon-1.1.0.jar"/>
+	<classpathentry kind="lib" path="F:/kavitha/Downloads/apache-maven-3.5.2-bin/apache-maven-3.5.2/lib/maven-resolver-util-1.1.0.jar"/>
+	<classpathentry kind="lib" path="F:/kavitha/Downloads/apache-maven-3.5.2-bin/apache-maven-3.5.2/lib/maven-settings-3.5.2.jar"/>
+	<classpathentry kind="lib" path="F:/kavitha/Downloads/apache-maven-3.5.2-bin/apache-maven-3.5.2/lib/maven-settings-builder-3.5.2.jar"/>
+	<classpathentry kind="lib" path="F:/kavitha/Downloads/apache-maven-3.5.2-bin/apache-maven-3.5.2/lib/maven-shared-utils-3.1.0.jar"/>
+	<classpathentry kind="lib" path="F:/kavitha/Downloads/apache-maven-3.5.2-bin/apache-maven-3.5.2/lib/maven-slf4j-provider-3.5.2.jar"/>
+	<classpathentry kind="lib" path="F:/kavitha/Downloads/apache-maven-3.5.2-bin/apache-maven-3.5.2/lib/org.eclipse.sisu.inject-0.3.3.jar"/>
+	<classpathentry kind="lib" path="F:/kavitha/Downloads/apache-maven-3.5.2-bin/apache-maven-3.5.2/lib/org.eclipse.sisu.plexus-0.3.3.jar"/>
+	<classpathentry kind="lib" path="F:/kavitha/Downloads/apache-maven-3.5.2-bin/apache-maven-3.5.2/lib/plexus-cipher-1.7.jar"/>
+	<classpathentry kind="lib" path="F:/kavitha/Downloads/apache-maven-3.5.2-bin/apache-maven-3.5.2/lib/plexus-component-annotations-1.7.1.jar"/>
+	<classpathentry kind="lib" path="F:/kavitha/Downloads/apache-maven-3.5.2-bin/apache-maven-3.5.2/lib/plexus-interpolation-1.24.jar"/>
+	<classpathentry kind="lib" path="F:/kavitha/Downloads/apache-maven-3.5.2-bin/apache-maven-3.5.2/lib/plexus-sec-dispatcher-1.4.jar"/>
+	<classpathentry kind="lib" path="F:/kavitha/Downloads/apache-maven-3.5.2-bin/apache-maven-3.5.2/lib/plexus-utils-3.1.0.jar"/>
+	<classpathentry kind="lib" path="F:/kavitha/Downloads/apache-maven-3.5.2-bin/apache-maven-3.5.2/lib/slf4j-api-1.7.25.jar"/>
+	<classpathentry kind="lib" path="F:/kavitha/Downloads/apache-maven-3.5.2-bin/apache-maven-3.5.2/lib/wagon-file-2.12.jar"/>
+	<classpathentry kind="lib" path="F:/kavitha/Downloads/apache-maven-3.5.2-bin/apache-maven-3.5.2/lib/wagon-http-2.12-shaded.jar"/>
+	<classpathentry kind="lib" path="F:/kavitha/Downloads/apache-maven-3.5.2-bin/apache-maven-3.5.2/lib/wagon-provider-api-2.12.jar"/>
+	<classpathentry kind="lib" path="F:/kavitha/ProgramFiles/apache-ignite-fabric-2.4.0-bin/libs/annotations-13.0.jar"/>
+	<classpathentry kind="lib" path="F:/kavitha/ProgramFiles/apache-ignite-fabric-2.4.0-bin/libs/cache-api-1.0.0.jar"/>
+	<classpathentry kind="lib" path="F:/kavitha/ProgramFiles/apache-ignite-fabric-2.4.0-bin/libs/ignite-core-2.4.0.jar"/>
+	<classpathentry kind="lib" path="F:/kavitha/ProgramFiles/apache-ignite-fabric-2.4.0-bin/libs/ignite-shmem-1.0.0.jar"/>
+	<classpathentry kind="output" path="target/classes"/>
+</classpath>
